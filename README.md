@@ -4,7 +4,7 @@
 
 ## Dataset
 
-> The data set includes information about individual rides made inIn a bike-sharing system covering the greater San Francisco Bay area for the period of February 2019. Row data consisted of 183412 entries and 16 features that include informations about the trip and the user. After the data cleaning, it consisted of 176114 and 17 features.
+> The data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area for the period of February 2019. Row data consisted of 183412 entries and 16 features that include informations about the trip and the user. After the data cleaning, it consisted of 176114 and 17 features.
 
 ## Summary of Findings
 
